@@ -1,0 +1,8 @@
+name: CreeperControl
+version: 1.0
+main: T3.CreeperControl
+description: "Prevent World Damage From Creepers"
+commands:
+  creeper:
+    default: op
+    description: "Summon A Creeper!"
